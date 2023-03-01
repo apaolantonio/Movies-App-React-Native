@@ -1,4 +1,4 @@
-### Aplicacion React utilizando themoviedb.org/
+### Aplicacion React Native utilizando themoviedb.org/
 
 Objetivo de la aplicacion:
 
