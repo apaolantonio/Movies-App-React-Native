@@ -8,3 +8,5 @@ Objetivo de la aplicacion:
 - Loadings
 - Promesas
 - Carousels
+- Context API
+- Gradientes con animaciones
